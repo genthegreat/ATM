@@ -1,0 +1,60 @@
+Welcome To ATM
+AUTO TELLER MATE
+Today's Date is:  
+Y=2016, M=04, D=18
+Please Enter your Account Number
+
+You entered 12340001
+Please Confirm The Amount Number You Entered
+  Or Press 'Enter' to return to Top
+
+12340001
+Please Enter Your Password, Customer ID:12340001
+
+Welcome To Your Account
+Your Customer ID is 12340001
+Ezra P. K. Gonyuie
+Please Select Service
+1. Withdraw
+2. Deposit
+3. Balance
+4. Quit
+1
+Welcome To The Service
+You have  500  In Your Account
+Please Enter The Amount You Wish to Withdraw
+You Are Withdrawing 23 from Account
+Please confirm 'Yes' or 'No'
+477
+You Have  477  In Your Account
+Service Complete
+Welcome To ATM
+AUTO TELLER MATE
+Today's Date is:  
+Y=2017, M=07, D=14
+Please Enter your Account Number
+Welcome To ATM
+AUTO TELLER MATE
+Today's Date is:  
+Y=2017, M=07, D=14
+Please Enter your Account Number
+Welcome To ATM
+AUTO TELLER MATE
+Today's Date is:  
+Y=2017, M=07, D=14
+Please Enter your Account Number
+Welcome To ATM
+AUTO TELLER MATE
+Today's Date is:  
+Y=2017, M=07, D=14
+Please Enter your Account Number
+Welcome To ATM
+AUTO TELLER MATE
+Today's Date is:  
+Y=2017, M=07, D=14
+Please Enter your Account Number
+Welcome To ATM
+AUTO TELLER MATE
+Today's Date is:  
+Y=2017, M=07, D=14
+Please Enter your Account Number
